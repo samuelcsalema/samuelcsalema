@@ -106,7 +106,7 @@ Sou Samuel Salema,
 
 #
 
-![snake gif](https://github.com/samuelcsalema/samuelcsalema/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/samuelcsalema/samuelcsalema/blob/output/github-contribution-grid-snake.svg)
 
 #
 
