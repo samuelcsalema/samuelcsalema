@@ -34,11 +34,27 @@ Sou Samuel Salema,
 />
 <img 
     align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" 
+/>
+<img 
+    align="left" 
     alt="VBA" 
     title="VBA"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/374159/vba.svg" 
+/>
+<img 
+    align="left" 
+    alt="Apps Script" 
+    title="Apps Script"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.gstatic.com/images/branding/product/2x/hh_apps_script_512dp.png" 
 />
 <img 
     align="left" 
